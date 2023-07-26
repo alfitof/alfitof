@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pamanalf@gmail.com**
 
-- 📄 Know about my experiences [https://cv.aksel.co.id/r/7zgmwy](https://cv.aksel.co.id/r/7zgmwy)
+- 📄 Know about my experiences [MY CV](https://drive.google.com/file/d/1rxiNA50hKsAkE1wadiu5Nqm1gy7Q9tHb/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
