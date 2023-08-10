@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alfito Febriansyah</h1>
-<h3 align="center">I am passionate as a Full Stack web developer having web application experience with PHP, Codeigniter, React.js, Next.js and CSS Framework with Tailwind and bootstrap.</h3>
+<h3 align="center">I am passionate as a Full Stack web developer having web application experience with ReactJS, NextJS, PHP, Codeigniter, and CSS Framework with Tailwind and bootstrap.</h3>
 <img align="right" alt="Profile" width="400" src="https://i.ibb.co/Jvz4Lbt/image-removebg-preview.png"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfitof&label=Profile%20views&color=0e75b6&style=flat" alt="alfitof" /> </p>
