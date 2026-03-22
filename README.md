@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/needsomesauce" target="blank"><img src="https://img.shields.io/twitter/follow/needsomesauce?logo=twitter&style=for-the-badge" alt="needsomesauce" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, NextJS**
+- 🌱 I’m currently learning **n8n, Ollama, OpenClaw**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-alfitof.vercel.app/](https://portfolio-alfitof.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://alfitofebriansyah.blog/](https://alfitofebriansyah.blog/)
 
 - 💬 Ask me about **Frontend**
 
