@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://alfitofebriansyah.blog/](https://alfitofebriansyah.blog/)
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Tech**
 
 - 📫 How to reach me **pamanalf@gmail.com**
 
