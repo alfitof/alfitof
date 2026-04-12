@@ -20,7 +20,7 @@
 - 🚀 Passionate **Software Engineer** focused on building modern web applications
 - 🌱 Currently exploring **n8n · Ollama · OpenClaw · Claude API**
 - 💼 All projects available at [alfitofebriansyah.blog](https://alfitofebriansyah.blog/)
-- 📄 Check out my experiences → [My CV](https://drive.google.com/file/d/1rxiNA50hKsAkE1wadiu5Nqm1gy7Q9tHb/view)
+- 📄 Check out my experiences → [My CV]([https://drive.google.com/file/d/1rxiNA50hKsAkE1wadiu5Nqm1gy7Q9tHb/view](https://drive.google.com/file/d/1pFj6KI5ojuSQkbNI7upAAWeYor01Jmjq/view?usp=sharing))
 - 💬 Ask me about **Web Development & Tech**
 - 📫 Reach me at **pamanalf@gmail.com**
 
@@ -53,14 +53,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfitof&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alfitof&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
-</p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfitof&theme=default" alt="GitHub Streak" />
